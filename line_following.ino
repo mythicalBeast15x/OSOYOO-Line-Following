@@ -1,12 +1,4 @@
-/*  ___   ___  ___  _   _  ___   ___   ____ ___  ____  
- * / _ \ /___)/ _ \| | | |/ _ \ / _ \ / ___) _ \|    \ 
- *| |_| |___ | |_| | |_| | |_| | |_| ( (__| |_| | | | |
- * \___/(___/ \___/ \__  |\___/ \___(_)____)___/|_|_|_|
- *                  (____/ 
- * Osoyoo Wifi Arduino Robot Car project
- * OSOYOO V2.1 Robot Car Lesson 2: Line Tracking Auto Driving
- * tutorial url: https://osoyoo.com/?p=32249
- */
+
 /*Declare L298N Dual H-Bridge Motor Controller directly since there is not a library to load.*/
 
 
